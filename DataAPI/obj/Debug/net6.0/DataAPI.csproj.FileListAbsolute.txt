@@ -1,0 +1,36 @@
+C:\Users\Martin\source\repos\CarpinteriaSLN\DataAPI\bin\Debug\net6.0\DataAPI.deps.json
+C:\Users\Martin\source\repos\CarpinteriaSLN\DataAPI\bin\Debug\net6.0\DataAPI.dll
+C:\Users\Martin\source\repos\CarpinteriaSLN\DataAPI\bin\Debug\net6.0\DataAPI.pdb
+C:\Users\Martin\source\repos\CarpinteriaSLN\DataAPI\obj\Debug\net6.0\DataAPI.csproj.AssemblyReference.cache
+C:\Users\Martin\source\repos\CarpinteriaSLN\DataAPI\obj\Debug\net6.0\DataAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\source\repos\CarpinteriaSLN\DataAPI\obj\Debug\net6.0\DataAPI.AssemblyInfoInputs.cache
+C:\Users\Martin\source\repos\CarpinteriaSLN\DataAPI\obj\Debug\net6.0\DataAPI.AssemblyInfo.cs
+C:\Users\Martin\source\repos\CarpinteriaSLN\DataAPI\obj\Debug\net6.0\DataAPI.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\CarpinteriaSLN\DataAPI\obj\Debug\net6.0\DataAPI.dll
+C:\Users\Martin\source\repos\CarpinteriaSLN\DataAPI\obj\Debug\net6.0\refint\DataAPI.dll
+C:\Users\Martin\source\repos\CarpinteriaSLN\DataAPI\obj\Debug\net6.0\DataAPI.pdb
+C:\Users\Martin\source\repos\CarpinteriaSLN\DataAPI\obj\Debug\net6.0\ref\DataAPI.dll
+C:\Users\dolor\OneDrive\Documentos\GitHub\ProgII\ProgII-2022\Semana 10\CarpinteriaSLN\DataAPI\bin\Debug\net6.0\DataAPI.deps.json
+C:\Users\dolor\OneDrive\Documentos\GitHub\ProgII\ProgII-2022\Semana 10\CarpinteriaSLN\DataAPI\bin\Debug\net6.0\DataAPI.dll
+C:\Users\dolor\OneDrive\Documentos\GitHub\ProgII\ProgII-2022\Semana 10\CarpinteriaSLN\DataAPI\bin\Debug\net6.0\DataAPI.pdb
+C:\Users\dolor\OneDrive\Documentos\GitHub\ProgII\ProgII-2022\Semana 10\CarpinteriaSLN\DataAPI\obj\Debug\net6.0\DataAPI.csproj.AssemblyReference.cache
+C:\Users\dolor\OneDrive\Documentos\GitHub\ProgII\ProgII-2022\Semana 10\CarpinteriaSLN\DataAPI\obj\Debug\net6.0\DataAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dolor\OneDrive\Documentos\GitHub\ProgII\ProgII-2022\Semana 10\CarpinteriaSLN\DataAPI\obj\Debug\net6.0\DataAPI.AssemblyInfoInputs.cache
+C:\Users\dolor\OneDrive\Documentos\GitHub\ProgII\ProgII-2022\Semana 10\CarpinteriaSLN\DataAPI\obj\Debug\net6.0\DataAPI.AssemblyInfo.cs
+C:\Users\dolor\OneDrive\Documentos\GitHub\ProgII\ProgII-2022\Semana 10\CarpinteriaSLN\DataAPI\obj\Debug\net6.0\DataAPI.csproj.CoreCompileInputs.cache
+C:\Users\dolor\OneDrive\Documentos\GitHub\ProgII\ProgII-2022\Semana 10\CarpinteriaSLN\DataAPI\obj\Debug\net6.0\DataAPI.dll
+C:\Users\dolor\OneDrive\Documentos\GitHub\ProgII\ProgII-2022\Semana 10\CarpinteriaSLN\DataAPI\obj\Debug\net6.0\refint\DataAPI.dll
+C:\Users\dolor\OneDrive\Documentos\GitHub\ProgII\ProgII-2022\Semana 10\CarpinteriaSLN\DataAPI\obj\Debug\net6.0\DataAPI.pdb
+C:\Users\dolor\OneDrive\Documentos\GitHub\ProgII\ProgII-2022\Semana 10\CarpinteriaSLN\DataAPI\obj\Debug\net6.0\ref\DataAPI.dll
+C:\Users\dolor\OneDrive\Escritorio\CINEMA_PROGII\cinefinal\Cine_App_2\Cine_App_2\DataAPI\bin\Debug\net6.0\DataAPI.deps.json
+C:\Users\dolor\OneDrive\Escritorio\CINEMA_PROGII\cinefinal\Cine_App_2\Cine_App_2\DataAPI\bin\Debug\net6.0\DataAPI.dll
+C:\Users\dolor\OneDrive\Escritorio\CINEMA_PROGII\cinefinal\Cine_App_2\Cine_App_2\DataAPI\bin\Debug\net6.0\DataAPI.pdb
+C:\Users\dolor\OneDrive\Escritorio\CINEMA_PROGII\cinefinal\Cine_App_2\Cine_App_2\DataAPI\obj\Debug\net6.0\DataAPI.csproj.AssemblyReference.cache
+C:\Users\dolor\OneDrive\Escritorio\CINEMA_PROGII\cinefinal\Cine_App_2\Cine_App_2\DataAPI\obj\Debug\net6.0\DataAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dolor\OneDrive\Escritorio\CINEMA_PROGII\cinefinal\Cine_App_2\Cine_App_2\DataAPI\obj\Debug\net6.0\DataAPI.AssemblyInfoInputs.cache
+C:\Users\dolor\OneDrive\Escritorio\CINEMA_PROGII\cinefinal\Cine_App_2\Cine_App_2\DataAPI\obj\Debug\net6.0\DataAPI.AssemblyInfo.cs
+C:\Users\dolor\OneDrive\Escritorio\CINEMA_PROGII\cinefinal\Cine_App_2\Cine_App_2\DataAPI\obj\Debug\net6.0\DataAPI.csproj.CoreCompileInputs.cache
+C:\Users\dolor\OneDrive\Escritorio\CINEMA_PROGII\cinefinal\Cine_App_2\Cine_App_2\DataAPI\obj\Debug\net6.0\DataAPI.dll
+C:\Users\dolor\OneDrive\Escritorio\CINEMA_PROGII\cinefinal\Cine_App_2\Cine_App_2\DataAPI\obj\Debug\net6.0\refint\DataAPI.dll
+C:\Users\dolor\OneDrive\Escritorio\CINEMA_PROGII\cinefinal\Cine_App_2\Cine_App_2\DataAPI\obj\Debug\net6.0\DataAPI.pdb
+C:\Users\dolor\OneDrive\Escritorio\CINEMA_PROGII\cinefinal\Cine_App_2\Cine_App_2\DataAPI\obj\Debug\net6.0\ref\DataAPI.dll
